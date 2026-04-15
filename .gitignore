@@ -9,3 +9,4 @@ hardhat-node.err.log
 
 .env
 .env.*
+!.env.example
