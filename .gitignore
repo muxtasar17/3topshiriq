@@ -1,0 +1,10 @@
+node_modules/
+artifacts/
+cache/
+.localapp/
+
+hardhat-node.out.log
+hardhat-node.err.log
+
+.env
+.env.*
