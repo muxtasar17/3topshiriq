@@ -2,6 +2,7 @@ node_modules/
 artifacts/
 cache/
 .localapp/
+deployments/
 
 hardhat-node.out.log
 hardhat-node.err.log
